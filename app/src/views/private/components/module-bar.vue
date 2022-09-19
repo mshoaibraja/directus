@@ -1,6 +1,6 @@
 <template>
 	<div class="module-bar">
-		<module-bar-logo />
+		
 
 		<div class="modules">
 			<v-button
